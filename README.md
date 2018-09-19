@@ -1,1 +1,1 @@
-# cfp.nantesjug.io
+# cfp.nantesjug.org
